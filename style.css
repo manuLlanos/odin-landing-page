@@ -136,3 +136,12 @@ button {
     text-align: right;
 }
 
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-card {
+    background-color: #3882F6;
+}
