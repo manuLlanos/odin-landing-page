@@ -113,3 +113,25 @@ header,
     border:4px#3882F6 solid;
     border-radius: 16px;
 }  
+
+
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px 140px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.caption {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
