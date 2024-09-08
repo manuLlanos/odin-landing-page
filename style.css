@@ -63,7 +63,7 @@ header,
     width: 80%;
 }
 
-.hero-content button {
+button {
     background-color: #3882F6;
     border: none;
     border-radius: 8px;
