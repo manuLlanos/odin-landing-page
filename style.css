@@ -168,6 +168,7 @@ button {
 .cta-card button {
     border-style: solid;
     border-color: #E5E7EB;
+    margin: 0;
 }
 
 footer {
