@@ -8,7 +8,8 @@ body {
 }
 
 header,
-.hero-section {
+.hero-section,
+footer {
     display: flex;
     background-color: #1F2937;
     font-size: 18px;
@@ -167,4 +168,8 @@ button {
 .cta-card button {
     border-style: solid;
     border-color: #E5E7EB;
+}
+
+footer {
+    justify-content: center;
 }
