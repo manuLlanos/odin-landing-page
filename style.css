@@ -138,10 +138,33 @@ button {
 
 .cta-section {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    color:#E5E7EB;
 }
 
 .cta-card {
     background-color: #3882F6;
+    flex: 1;
+    margin: 80px 140px;
+    padding: 40px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+.cta-text h3 {
+    font-size: 24px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.cta-text p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.cta-card button {
+    border-style: solid;
+    border-color: #E5E7EB;
 }
